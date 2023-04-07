@@ -24,9 +24,6 @@ Here are some ideas to get you started:
 
 ----
 
-
-![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
-
 <h3> 👦: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo aplicações web.- 
@@ -54,7 +51,7 @@ Here are some ideas to get you started:
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Kaio](https://img.shields.io/badge/-kaizinbr-blue?style=for-the-badge&logo=appveyor&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/kaizin/))]([Kaizinbr](https://www.linkedin.com/in/kaizin/)
+[![Linkedin: Kaio](https://img.shields.io/badge/-kaizinbr-blue?style=for-the-badge&logo=appveyor&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaizin/)](https://www.linkedin.com/in/kaizin/)
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)
 
