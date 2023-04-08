@@ -40,6 +40,6 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Kaio](https://img.shields.io/badge/-kaizinbr-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaizin/)](https://www.linkedin.com/in/kaizin/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kaiolucas1812@gmail.com)](mailto:kaiolucas1812@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-kaiolucas1812@gmail.com-006bed?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kaiolucas1812@gmail.com)](mailto:kaiolucas1812@gmail.com)
 
 
