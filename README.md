@@ -2,12 +2,16 @@
     
 > I'm a student passionate about Web Development and Design. Willing to challenges and new learnings, always dedicating myself to the maximum to achieve results! Now I'm studying Graphic Design at [@IFPB](https://github.com/ifpb) to develop my skills in web design and UI/UX design.
 
-
 ### 👇🏼 Reach me out
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-474472?style=for-the-badge)](https://web.dio.me/users/kaizinbr/)
 [![Linkedin: Kaio](https://img.shields.io/badge/-kaizin-474472?style=for-the-badge&logo=Linkedin&logoColor=B3BEFF&link=https://www.linkedin.com/in/kaizin/)](https://www.linkedin.com/in/kaizin/)
 [![Gmail Badge](https://img.shields.io/badge/-kaiolucas1812@gmail-474472?style=for-the-badge&logo=Gmail&logoColor=fff3b0&link=mailto:kaiolucas1812@gmail)](mailto:kaiolucas1812@gmail)
+
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaizinbr&theme=transparent&bg_color=2A2944&border_color=6461A0&show_icons=true&icon_color=9B99C2&title_color=B3BEFF&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kaizinbr&bg_color=2A2944&border_color=6461A0&title_color=B3BEFF&text_color=FFF)
 
 ### 🤓 My Skills
 
@@ -31,6 +35,3 @@
 - 💼 I look forward to project opportunities that can develop my skills and knowledge
 - 🎵 Fun fact: I love to listen to music and draw every time I can
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaizinbr&theme=transparent&bg_color=2A2944&border_color=6461A0&show_icons=true&icon_color=9B99C2&title_color=B3BEFF&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kaizinbr&bg_color=2A2944&border_color=6461A0&title_color=B3BEFF&text_color=FFF)
