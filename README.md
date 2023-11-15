@@ -4,7 +4,6 @@
 
 ### 👇🏼 Reach me out
 
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-474472?style=for-the-badge)](https://web.dio.me/users/kaizinbr/)
 [![Linkedin: Kaio](https://img.shields.io/badge/-kaizin-474472?style=for-the-badge&logo=Linkedin&logoColor=B3BEFF&link=https://www.linkedin.com/in/kaizin/)](https://www.linkedin.com/in/kaizin/)
 [![Gmail Badge](https://img.shields.io/badge/-kaiolucas1812@gmail-474472?style=for-the-badge&logo=Gmail&logoColor=fff3b0&link=mailto:kaiolucas1812@gmail)](mailto:kaiolucas1812@gmail)
 
