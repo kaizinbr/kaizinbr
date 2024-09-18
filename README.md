@@ -5,7 +5,7 @@
 ### 👇🏼 Reach me out
 
 [![Linkedin: Kaio](https://img.shields.io/badge/-kaizin-474472?style=for-the-badge&logo=Linkedin&logoColor=B3BEFF&link=https://www.linkedin.com/in/kaizin/)](https://www.linkedin.com/in/kaizin/)
-[![Gmail Badge](https://img.shields.io/badge/-kaiolucas1812@gmail-474472?style=for-the-badge&logo=Gmail&logoColor=fff3b0&link=mailto:kaiolucas1812@gmail.com)](mailto:kaiolucas1812@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-kaiolucas1812@gmail.com-474472?style=for-the-badge&logo=Gmail&logoColor=fff3b0&link=mailto:kaiolucas1812@gmail.com)](mailto:kaiolucas1812@gmail.com)
 
 ### GitHub Stats
 
